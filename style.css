@@ -21,7 +21,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: "Playfair Display", serif;
-  color: #1B4D3E;
+  color: #66BB6A;
   line-height: 1.2;
   font-weight: 600;
 }
@@ -55,7 +55,7 @@ p {
 }
 
 a {
-  color: #1B4D3E;
+  color: #66BB6A;
   text-decoration: none;
   transition: color 0.2s ease;
 }
@@ -82,7 +82,7 @@ a:hover {
   font-family: "Playfair Display", serif;
   font-size: 1.6rem;
   font-weight: 700;
-  color: #1B4D3E;
+  color: #66BB6A;
   letter-spacing: 0.05em;
 }
 
